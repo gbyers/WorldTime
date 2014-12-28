@@ -1,5 +1,5 @@
 ###
-# boop Copyright (c) 2014, spline
+# Copyright (c) 2014, spline
 # All rights reserved.
 #
 #
